@@ -35,5 +35,10 @@ console.log(frase2);
 
 // Exercícios
 
-var ex01 = 'Uma string';
-var ex02 = ''
+var ex01 = 'Bruninho';
+var ex02 = '22';
+var ex03 = 22;
+var nome = 'Bruno';
+var sobrenome = 'Purper';
+var nomeCompleto = `${nome} ${sobrenome}`;
+var ex04 = "It's Time!";
