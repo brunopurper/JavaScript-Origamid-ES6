@@ -33,3 +33,7 @@ var frase2 = `Romario fez ${gols * 2} gols`; // Posso até mesmo fazer operaçõ
 
 console.log(frase2);
 
+// Exercícios
+
+var ex01 = 'Uma string';
+var ex02 = ''
