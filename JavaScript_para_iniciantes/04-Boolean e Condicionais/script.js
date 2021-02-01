@@ -43,3 +43,6 @@ if (possuiDoutorado) {
 10 != 15 // true (! + =) => != <- Pergunta se é diferente
 10 != '10' // false
 10 !== '10' // true
+
+
+// O && compara se uma expressão e a outra é verdadeira
