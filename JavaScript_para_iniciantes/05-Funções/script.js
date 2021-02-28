@@ -45,7 +45,7 @@ addEventListener('click', function () {
 // ============= * =====================
 function imc2(peso, altura) {
 
-  const imc = peso / (altura * altura);
+    const imc = peso / (altura * altura);
   console.log(imc);
 }
 

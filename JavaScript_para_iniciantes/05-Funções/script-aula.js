@@ -43,8 +43,9 @@ addEventListener('scroll', function(){
 })
 
 // Corrija o erro abaixo
+var totalPaises = 193;
+
 function precisoVisitar(paisesVisitados) {
-  var totalPaises = 193;
   return `Ainda faltam ${totalPaises - paisesVisitados} países para visitar`;
 }
 function jaVisitei(paisesVisitados) {
@@ -52,3 +53,4 @@ function jaVisitei(paisesVisitados) {
 }
 precisoVisitar(20);
 jaVisitei(20);
+
